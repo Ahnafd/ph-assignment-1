@@ -140,3 +140,209 @@ margin-bottom:32px ;
 font-family: "Fira Sans", serif;
 color: rgb(111, 106, 106);
 }
+.phrase-1{
+    background-color:rgb(205, 221, 229);
+    height: 390px;
+    width: 330px;
+    margin-left: 160px;
+    margin-right:24px ;
+    margin-top: 32px;
+    display: inline-block;
+    justify-content: center;
+    border-radius: 15px;
+}
+.phrase-2{
+    background-color:rgb(189, 243, 212);
+    height: 390px;
+    width: 330px;
+    margin-top:32px;
+    margin-right: 24px;
+    display: inline-block;
+    border-radius: 15px;
+}
+.phrase-3{
+    background-color:rgb(221, 213, 142);
+    height: 390px;
+    width: 330px;
+    margin-top:32px;
+    margin-right: 100px;
+    display: inline-block;
+    border-radius: 15px;
+}
+
+.phrase-img{
+    padding-left: 32px;
+    padding-right: 32px ;
+    padding-top: 32px;
+    padding-bottom: 24px;
+}
+.phrase-title{
+    padding: 24px 15px 12px;
+    font-family: "Fira Sans", serif;
+}
+.phrase-title-2{
+    padding: 24px 15px 12px;
+    font-family: "Fira Sans", serif;
+}
+.phrase-title-3{
+    padding: 24px 15px 12px;
+    font-family: "Fira Sans", serif;
+}
+.phrase-about{
+    font-size: 20px;
+    padding: 24px 15px 12px;
+    font-family:"Fira Sans", serif ;
+    font-size: 16px;
+}
+.phrase-about-2{
+    font-size: 20px;
+    padding: 24px 15px 12px;
+    font-family:"Fira Sans", serif ;
+    font-size: 16px;
+}
+.phrase-about-3{
+    font-size: 20px;
+    padding: 24px 15px 12px;
+    font-family:"Fira Sans", serif ;
+    font-size: 16px;
+}
+.phrase-button-1{
+    background-color:#5490F5 ;
+    position: relative;
+    padding: 13px 26px ;
+    border-radius: 5px;
+    color: white;
+}
+.phrase-button-2{
+    background-color:#09A15C ;
+    border: none;
+    position: relative;
+    padding: 13px 26px;
+    border-radius: 5px;
+    color: white;
+
+}
+.phrase-button-3{
+    background-color:#FFC239;
+    position: relative;
+    padding: 13px 26px;
+    border-radius: 5px;
+    color: white;
+}
+
+.div-btn{
+    padding-left: 15px;
+}
+.full-box{
+    margin-top: 100px;
+    margin-left:160px ;
+    margin-right: 160px;
+    border: 2px solid rgb(208, 201, 201);
+    border-radius: 20px;
+    background-color: whitesmoke;
+    background-image: url("assets/quote-bg.png");
+    background-position:0px 3px ;
+    background-repeat: no-repeat;
+    background-size:60px;
+    padding-left: 48px ;
+    padding-right: 48px;
+    padding-top: 12px;
+    padding-bottom: 100px;
+}
+.quote{
+    font-family:"Fira Sans", serif ;
+    font-size: 16px;
+    padding-bottom: 12px;
+    font-weight: 340px;
+}
+.name{
+    font-family:"Fira Sans", serif ;
+    font-size: 20px;
+    padding-bottom: 6px;
+}
+.by-whom{
+    font-family:"Fira Sans", serif ;
+    font-size: 16px;
+    padding-bottom: 10px;
+    font-weight: 340px;
+}
+.after-head{
+    font-family: "Fira Sans", serif;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 160px;
+    margin-top: 75px;
+}
+.about-4{
+    padding-top: 15px;
+    padding-left:24px ;
+    font-family: "Fira Sans", serif;
+    font-size: 16px;
+    color: rgb(111, 106, 106);
+    padding-right: 9px;
+    padding-bottom:24px ;
+    margin-left: 138px;
+    margin-right: 160px;
+}
+.box-card-real{
+    margin-left:160px ;
+    border:none;
+    background-color: whitesmoke;
+    margin-right: 160px;
+    margin-bottom: 24px ;
+    padding: 48px 48px 40px 48px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: right;
+    font-family: "Fira Sans", serif;
+}
+.box-card-img{
+    width: 408;
+    height: 306;
+    border-radius: 10px;
+    display: inline-block;
+}
+.box-card-img-2{
+    width: 408;
+    height: 306;
+    border-radius: 10px;
+    display: flex;
+    justify-content:left ;
+    display: inline-block;
+}
+.box-card{
+    display: inline-block;
+    border-radius: 10px;
+    position: right;
+    padding-left: 32px;
+    padding-right:32px ;
+
+}
+.time{
+    color: rgb(111, 106, 106);
+    padding-top:7px ;
+    padding-bottom:7px ;
+
+}
+.box-card-head{
+    font-size: 32px;
+}
+.date{
+    font-size: 16px;
+    color: rgb(111, 106, 106);
+    padding-bottom: 12px;
+}
+.about-5{
+    color: rgb(111, 106, 106);
+    font-size: 16px;
+    padding-bottom: 32px;
+    padding-right: 32px;
+    padding-top:12px ;
+}
+.btn-un{
+    background-color:#006A50 ;
+    position: relative;
+    padding: 13px 26px;
+    border-radius: 5px;
+    color: white;
+}
